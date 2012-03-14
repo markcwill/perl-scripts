@@ -1,0 +1,5 @@
+My vast repository of one-off and maybe-future-useful perl scripts, mostly for Antleope database admin.
+
+db_*.pl files require the Datascope.pm perl module.
+
+There's also some good conversion scripts in here, as well as some bad ones...
